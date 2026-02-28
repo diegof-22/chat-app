@@ -25,7 +25,7 @@ java-chat/
 └── README.md
 ```
 
-## 🛠️ Come Eseguire il Progetto
+## Come Eseguire il Progetto
 
 ### 1. Compilare il Codice
 
